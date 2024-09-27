@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useContext } from "react";
-import styles from "./PhotoContent.module.css";
+import styles from "./photoContent.module.css";
 import PhotoComments from './photoComments';
 import PhotoDelete from "./photoDelete";
 import Link from "next/link";
